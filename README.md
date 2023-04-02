@@ -22,4 +22,4 @@ Interessado em Hardware e Software de baixo e alto nível
 
 ##
 
-![Snake animation https://github.com/VitorBrunor]
+![Snake animation](https://github.com/VitorBrunor)
