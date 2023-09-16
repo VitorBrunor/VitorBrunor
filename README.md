@@ -1,11 +1,11 @@
 ### Olá! Eu sou o (Vitor) Brunor, estudante de Engenharia de Computação.
-Interessado em Hardware e Software de baixo e alto nível
+Tenho interesse em desenvolviemnto de software, em especial Backend. Tenho interesse também em Sistemas Embarcados e Processamento Digital de Sinais, além de Eletrônica Analógica e Digital.
+Estou em busca de um estágio para me desenolver e aplicar meus conhecimento em projetos que impactem as pessoas.
 
 - 📖 Estudando Java, e C# 
 - 📫 Contate-me pelo e-mail: vitorbrunor@ucl.br
 
    <img align="center" alt="Brunor-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="Brunor-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
    <img align="center" alt="Brunor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    
           
