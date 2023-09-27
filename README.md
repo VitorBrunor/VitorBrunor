@@ -1,5 +1,5 @@
 ### Olá! Eu sou o (Vitor) Brunor, estudante de Engenharia de Computação.
-Tenho interesse em desenvolviemnto de software, em especial Backend. Tenho interesse também em Sistemas Embarcados e Processamento Digital de Sinais, além de Eletrônica Analógica e Digital.
+Tenho interesse em desenvolvimento de software, em especial Backend e DevOps. Tenho interesse também em Sistemas Embarcados e Processamento Digital de Sinais, além de Eletrônica Analógica e Digital.
 Estou em busca de um estágio para me desenolver e aplicar meus conhecimento em projetos que impactem as pessoas.
 
 
