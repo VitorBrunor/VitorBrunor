@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=gray&logo=discord&logoColor=white&link=https://discord.gg/miojodetomate#4047"/>
 </a>
 
-<a href="https://www.linkedin.com/in/vitorbrunor" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/vitor-brunor/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
 </a>
 
