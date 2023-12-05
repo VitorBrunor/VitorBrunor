@@ -3,7 +3,7 @@
 <img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-      OI, eu sou o (Vitor) Brunor! aspirante a <strong> Desenvolvedor Back End </strong> com ênfase em Java. Atualmente curso <strong>Engenharia de Compputação</strong>.
+      OI, eu sou o (Vitor) Brunor! aspirante a <strong> Desenvolvedor Back End </strong> com ênfase em Java. Atualmente curso <strong>Engenharia de Computação</strong>.
 </p>
 
 <p align="left">
@@ -31,14 +31,14 @@
 <strong>Minhas habilidades:<strong>
   
  <details>
-    <summary>Languages</summary>
+    <summary>Linguagens</summary>
     
   ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
   ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
   ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=gray)
   </details>
   <details>
-    <summary>Tools</summary>
+    <summary>Ferramentas</summary>
     
   ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
   </details>
