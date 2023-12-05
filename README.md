@@ -43,13 +43,10 @@
   ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
   </details>
   
-# My Status
+# Mais informações
 <div>
   <table style="margin: 0 auto;" align="center">
     <tr>
-      <td>
-        <img height="https://github-readme-streak-stats.herokuapp.com/?user=VitorBrunor&theme=react&hide_border=false"/>
-      </td>
       <td>
         <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&layout=compact&theme=react&count_private=true"/>
       </td>
