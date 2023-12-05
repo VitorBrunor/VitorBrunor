@@ -1,24 +1,58 @@
-### Olá! Eu sou o (Vitor) Brunor, estudante de Engenharia de Computação.
-Tenho interesse em desenvolvimento de software, em especial Backend e DevOps. Tenho interesse também em Sistemas Embarcados e Processamento Digital de Sinais, além de Eletrônica Analógica e Digital.
-Estou em busca de um estágio para me desenolver e aplicar meus conhecimento em projetos que impactem as pessoas.
+# Vitor Brunor
+
+<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
+
+<p align="left"> 
+      OI, eu sou o (Vitor) Brunor! aspirante a <strong> Desenvolvedor Back End </strong> com ênfase em Java. Atualmente curso <strong>Engenharia de Compputação</strong>.
+</p>
+
+<p align="left">
+  🕑 Estou estudando: <strong>Java POO (Udemy), Banco de Dados Relacional e Spring</strong>
+</p>
+
+<p align="left">
+ <strong>Você pode me encontrar em:<strong>
+</p>
+
+<p align="left">
+<a href="mailto:vitorbrunor@ucl.br">
+  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:sandypiropodev@gmail.com" />
+</a>
+
+<a href="https://discord.gg/vitorbrunor" alt="Discord">
+  <img src="https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=gray&logo=discord&logoColor=white&link=https://discord.gg/miojodetomate#4047"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vitorbrunor" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
+</a>
 
 
-- 📖 Estudando Java e C# 
-- 📫 Contate-me pelo e-mail: vitorbrunor@ucl.br
-
-   <img align="center" alt="Brunor-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="Brunor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   
-          
+<strong>Minhas habilidades:<strong>
   
-  ##
- 
-<div> 
+ <details>
+    <summary>Languages</summary>
+    
+  ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
+  ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
+  ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=gray)
+  </details>
+  <details>
+    <summary>Tools</summary>
+    
+  ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
+  </details>
   
-  <a href="https://instagram.com/vitorbrunor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vitorbrunor@ucl.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-brunor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+# My Status
+<div>
+  <table style="margin: 0 auto;" align="center">
+    <tr>
+      <td>
+        <img height="https://github-readme-streak-stats.herokuapp.com/?user=VitorBrunor&theme=react&hide_border=false"/>
+      </td>
+      <td>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&layout=compact&theme=react&count_private=true"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-##
