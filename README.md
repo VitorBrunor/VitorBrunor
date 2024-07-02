@@ -1,13 +1,13 @@
 # Vitor Brunor
 
-<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-      OI, eu sou o (Vitor) Brunor! aspirante a <strong> Desenvolvedor Back End </strong> com ênfase em Java. Atualmente curso <strong>Engenharia de Computação</strong>.
+      OI, eu sou o (Vitor) Brunor! Sou fascinaado por <strong> Visão Computacional e Inteligência Artificial </strong>,  mas também tenho um pezimho no Java.  Atualmente curso <strong>Engenharia de Computação</strong>.
 </p>
 
 <p align="left">
-  🕑 Estou estudando: <strong>Java POO (Udemy), Banco de Dados Relacional e Spring</strong>
+  🕑 Estou estudando: <strong>Python, Inteligência Artificial, Java e Banco de Dados (MySQL)</strong>
 </p>
 
 <p align="left">
