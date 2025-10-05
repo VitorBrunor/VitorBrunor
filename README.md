@@ -3,11 +3,11 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-      OI, eu sou o (Vitor) Brunor! Sou fascinado por <strong>Computação em Nuvem e Inteligência ArtificiaL</strong>,  mas também tenho um pezinho no Java e no C#.  Atualmente curso <strong>Engenharia de Computação</strong>.
+      OI, eu sou o (Vitor) Brunor! Sou fascinado por <strong>Computação em Nuvem e DevOps</strong>. Atualmente curso <strong>Engenharia de Computação</strong> e atuo como <strong>Desenvolvedor .Net</strong>.
 </p>
 
 <p align="left">
-  🕑 Estou estudando: <strong>Python, Computação em Nuvem, C# e Banco de Dados (MySQL)</strong>
+  🕑 Estou estudando: <strong>DevOps, .Net, Bancos de Dados Oracle e Keycloak</strong>
 </p>
 
 <p align="left">
@@ -32,14 +32,15 @@
   
  <details>
     <summary>Linguagens</summary>
-    
-  ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
+       
   ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
   ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=gray)
+  
   </details>
+  
   <details>
     <summary>Ferramentas</summary>
-    
+        
   ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
   </details>
   
