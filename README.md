@@ -1,7 +1,5 @@
 # Vitor Brunor
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" min-width="300px" max-width="300px" width="300px" align="right">
-
 <p align="left"> 
       OI, eu sou o (Vitor) Brunor! Sou fascinado por <strong>Computação em Nuvem e DevOps</strong>. Atualmente curso <strong>Engenharia de Computação</strong> e atuo como <strong>Desenvolvedor .Net</strong>.
 </p>
